@@ -25,7 +25,7 @@ My son 👨‍🦽 is the perfect example of this.
 [Theo](https://just4children.org/theos-fight/)
 ![20220604_155541(0)](https://user-images.githubusercontent.com/122787650/212678210-21e9ce92-3be4-46d0-bfeb-997a296c9b79.jpg)
 
- is 5 years old and has quad CP he is a full time wheelchair user. Although he is non verbal he can use a computer called an eyegaze to communicate.
+Theo is 5 years old and has quad CP he is a full time wheelchair user. Although he is non verbal he can use a computer called an eyegaze to communicate.
 Imagine it as an eye pad for your eyes, when he looks at a tile it will add the word/ letter to a sentence. He can look at 'read' and it will read the sentence out aloud for us all to hear! 
 
 © Andy Hutton 2023
