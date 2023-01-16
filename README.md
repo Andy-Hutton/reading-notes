@@ -2,16 +2,16 @@
 
 ## Who is *Andy*? 
 
-Hi im Andy, I am learning to code. Im 38 years old, married  and have two children
+Hi im Andy, I am learning to code. Im 38 years old, married  and have two children Theo 5 and Jett 3 months.
 I like mountain bikes 🚵‍♂️ cars 🏎️ and ***beer***!
 
-![andy](https://user-images.githubusercontent.com/122787650/212669387-8ad16ba7-9047-496e-b3e4-2bf0c0b9a878.jpg)
+![Andy](https://user-images.githubusercontent.com/122787650/212679054-9c12645b-c8cb-4ad1-b720-fb70a1153944.jpg)
 ![Andy on a bike](https://user-images.githubusercontent.com/122787650/212671193-d6b9d082-79a1-48b7-bbcd-52a9fe6118a5.jpg)
-
 
 ## What is this website?
 
 This is my reading notes for the full stack bootcamp where I will become a wizzard at code... hopefully.
+It will give me an opportunity to test my new skills out.
 
 ## What is [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)?
 
