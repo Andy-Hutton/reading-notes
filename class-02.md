@@ -14,3 +14,6 @@ If you wanted to learn mor about MD you could visit <https://www.markdownguide.o
 
 Take your Markdown skills to the next level.
 Learn Markdown in 60 pages. Designed for both novices and experts, The Markdown Guide book is a comprehensive reference that has everything you need to get started and master Markdown syntax.
+
+## Things I want to know more about
+This is a place to write down any questions that I may have.
