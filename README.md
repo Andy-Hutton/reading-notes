@@ -1,5 +1,8 @@
 # reading-notes
 
+## Table of content;
+[Class 02](https://andy-hutton.github.io/reading-notes/class-02)
+
 ## Who is *Andy*? 
 
 Hi im Andy, I am learning to code. Im 38 years old, married  and have two children Theo 5 and Jett 3 months.
