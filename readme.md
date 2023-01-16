@@ -10,6 +10,7 @@ Hi im Andy, Im 38 years old, married  and have two children Theo 5 and Jett 3 mo
 I like mountain bikes 🚵‍♂️ cars 🏎️ and ***beer***! 
 I am learning to code to challange myself and find a new career.
 
+![Family](https://user-images.githubusercontent.com/122787650/212732356-6b870cfd-f157-4da9-98c7-025217447708.jpg)
 ![Andy](https://user-images.githubusercontent.com/122787650/212679054-9c12645b-c8cb-4ad1-b720-fb70a1153944.jpg)
 ![Andy on a bike](https://user-images.githubusercontent.com/122787650/212671193-d6b9d082-79a1-48b7-bbcd-52a9fe6118a5.jpg)
 
