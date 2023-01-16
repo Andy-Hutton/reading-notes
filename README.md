@@ -1,6 +1,6 @@
 # reading-notes
 
-## Who is *Andy*?
+## Who is *Andy*? :point_down:
 
 ![andy](https://user-images.githubusercontent.com/122787650/212669387-8ad16ba7-9047-496e-b3e4-2bf0c0b9a878.jpg)
 
