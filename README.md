@@ -1,6 +1,8 @@
 # reading-notes
 
-## Who is Andy
+## Who is *Andy*?
+
+![andy](https://www.instagram.com/p/CnAlbCzDBl6/?utm_source=ig_web_copy_link)
 
 Hi im Andy, I am learning to code.
 I like mountain bikes and cars!
@@ -9,6 +11,10 @@ I like mountain bikes and cars!
 
 This is my reading notes for the full stack bootcamp where I became a wizzard at code.
 
-## What is growth mindset?
+## What is [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)?
 
-Growth mindset is having the ability to learn and persist when I am learning something new.
+1. embrace
+2. persist
+3. learn
+
+Growth mindset is having the ability to persist when I am learning something new, understanding that I cant do it yet.
