@@ -1,2 +1,16 @@
 # Class 02
-new note from this afternoons learning
+New notes from this afternoons learning
+## What we learnt
+* Getting your computer installed with the latest software is somewhat time consuming
+* Patience and the ability to learn is the key to completing the task
+* we covered basic syntax, adding links and pictures  
+
+## Putting it into practice
+We created a page using github, it uses MD and is used best when the page only has content, not when you are trying to gather information.
+
+## Further reading
+![book-cover](https://user-images.githubusercontent.com/122787650/212730970-f850c698-1092-4123-9cab-dce2759c3373.jpg)
+If you wanted to learn mor about MD you could visit <https://www.markdownguide.org/book/>
+
+Take your Markdown skills to the next level.
+Learn Markdown in 60 pages. Designed for both novices and experts, The Markdown Guide book is a comprehensive reference that has everything you need to get started and master Markdown syntax.
