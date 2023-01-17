@@ -1,6 +1,7 @@
 # Class 2
+
 New notes from this afternoons learning
-## What we learnt
+## What we learnt  
 * Getting your computer installed with the latest software is somewhat time consuming
 * Patience and the ability to learn is the key to completing the task
 * we covered basic syntax, adding links and pictures  
@@ -9,7 +10,7 @@ New notes from this afternoons learning
 We created a page using github, it uses MD and is used best when the page only has content, not when you are trying to gather information.
 
 ## Further reading
-![book-cover](https://user-images.githubusercontent.com/122787650/212730970-f850c698-1092-4123-9cab-dce2759c3373.jpg)
+![book-cover](https://user-images.githubusercontent.com/122787650/212730970-f850c698-1092-4123-9cab-dce2759c3373.jpg)  
 If you wanted to learn more about MD you could buy this book <https://www.markdownguide.org/book/>
 
 Take your Markdown skills to the next level.
