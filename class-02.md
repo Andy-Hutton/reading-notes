@@ -17,3 +17,9 @@ Learn Markdown in 60 pages. Designed for both novices and experts, The Markdown 
 
 ## Things I want to know more about
 This is a place to write down any questions that I may have.
+
+## links for reference
+
+<https://ryanstutorials.net/linuxtutorial/commandline.php>
+<https://ryanstutorials.net/linuxtutorial/navigation.php>
+https://ryanstutorials.net/linuxtutorial/aboutfiles.php
