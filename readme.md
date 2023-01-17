@@ -14,7 +14,7 @@ I am learning to code to challange myself and find a new career.
 ## Table of content, links to my learning;
 
 ### Code-102
-Go to [Read 01](./201/Class1.md)   
+Go to [Read 01](https://github.com/Andy-Hutton/reading-notes/blob/7a85af4d4c7b94d4b2cd9712b83a4a9e408025c4/code-102/class1.md)   
 Go to [Read 02](./201/class2.md)  
 Go to [Read 03](./201/class3.md)  
 Go to [Read 04](./201/class4.md)  
