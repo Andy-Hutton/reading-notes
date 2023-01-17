@@ -1,8 +1,5 @@
 # reading-notes
 
-## Table of content, links to my learning;
-[Class 02](https://andy-hutton.github.io/reading-notes/class-02)
-[Class 03](https://andy-hutton.github.io/reading-notes/class-03)
 ## Bio
 ### Who is **Andy**? 
 
@@ -13,6 +10,8 @@ I am learning to code to challange myself and find a new career.
 ![Family](https://user-images.githubusercontent.com/122787650/212732356-6b870cfd-f157-4da9-98c7-025217447708.jpg)
 ![Andy](https://user-images.githubusercontent.com/122787650/212679054-9c12645b-c8cb-4ad1-b720-fb70a1153944.jpg)
 ![Andy on a bike](https://user-images.githubusercontent.com/122787650/212671193-d6b9d082-79a1-48b7-bbcd-52a9fe6118a5.jpg)
+
+## Table of content, links to my learning;
 
 ## What is this website?
 
