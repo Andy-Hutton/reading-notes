@@ -15,13 +15,13 @@ I am learning to code to challange myself and find a new career.
 
 ### Code-102
 Go to [Read 01](https://Andy-Hutton.github.io/reading-notes/code-102/class1)   
-Go to [Read 02](https://Andy-Hutton.github.io/)  
-Go to [Read 03](https://Andy-Hutton.github.io/)  
-Go to [Read 04](https://Andy-Hutton.github.io/)  
-Go to [Read 05](https://Andy-Hutton.github.io/)  
-Go to [Read 06](https://Andy-Hutton.github.io/)  
-Go to [Read 07](https://Andy-Hutton.github.io/)  
-Go to [Read 08](https://Andy-Hutton.github.io/)  
+Go to [Read 02](https://Andy-Hutton.github.io/reading-notes/code-102/class2)  
+Go to [Read 03](https://Andy-Hutton.github.io/reading-notes/code-102/class3)  
+Go to [Read 04](https://Andy-Hutton.github.io/reading-notes/code-102/class4)  
+Go to [Read 05](https://Andy-Hutton.github.io/reading-notes/code-102/class5)  
+Go to [Read 06](https://Andy-Hutton.github.io/reading-notes/code-102/class6)  
+Go to [Read 07](https://Andy-Hutton.github.io/reading-notes/code-102/class7)  
+Go to [Read 08](https://Andy-Hutton.github.io/reading-notes/code-102/class8)  
 
 
 ## What is this website?
