@@ -20,6 +20,6 @@ This is a place to write down any questions that I may have.
 
 ## links for reference
 
-<https://ryanstutorials.net/linuxtutorial/commandline.php>
-<https://ryanstutorials.net/linuxtutorial/navigation.php>
+<https://ryanstutorials.net/linuxtutorial/commandline.php><br>
+<https://ryanstutorials.net/linuxtutorial/navigation.php><br>
 https://ryanstutorials.net/linuxtutorial/aboutfiles.php
