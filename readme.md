@@ -14,14 +14,14 @@ I am learning to code to challange myself and find a new career.
 ## Table of content, links to my learning;
 
 ### Code-102
-Go to [Read 01](https://github.com/Andy-Hutton/reading-notes/blob/7a85af4d4c7b94d4b2cd9712b83a4a9e408025c4/code-102/class1.md)   
-Go to [Read 02](./201/class2.md)  
-Go to [Read 03](./201/class3.md)  
-Go to [Read 04](./201/class4.md)  
-Go to [Read 05](./201/class5.md)  
-Go to [Read 06](./201/class6.md)  
-Go to [Read 07](./201/class7.md)  
-Go to [Read 08](./201/class8.md)  
+Go to [Read 01](https://Andy-Hutton.github.io/)   
+Go to [Read 02](https://Andy-Hutton.github.io/)  
+Go to [Read 03](https://Andy-Hutton.github.io/)  
+Go to [Read 04](https://Andy-Hutton.github.io/)  
+Go to [Read 05](https://Andy-Hutton.github.io/)  
+Go to [Read 06](https://Andy-Hutton.github.io/)  
+Go to [Read 07](https://Andy-Hutton.github.io/)  
+Go to [Read 08](https://Andy-Hutton.github.io/)  
 
 
 ## What is this website?
