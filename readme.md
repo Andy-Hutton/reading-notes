@@ -2,7 +2,7 @@
 
 ## Table of content, links to my learning;
 [Class 02](https://andy-hutton.github.io/reading-notes/class-02)
-
+[Class 03](https://andy-hutton.github.io/reading-notes/class-03)
 ## Bio
 ### Who is **Andy**? 
 
