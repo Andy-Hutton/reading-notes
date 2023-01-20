@@ -12,7 +12,7 @@ I am learning to code to challange myself and find a new career.
 ![Andy](https://user-images.githubusercontent.com/122787650/212679054-9c12645b-c8cb-4ad1-b720-fb70a1153944.jpg)
 ![Andy on a bike](https://user-images.githubusercontent.com/122787650/212671193-d6b9d082-79a1-48b7-bbcd-52a9fe6118a5.jpg)
 
-## Table of content, links to my learning;
+## Table of content, links to my learning
 
 ### Code-102
 
@@ -29,7 +29,7 @@ Go to [Read 08](https://Andy-Hutton.github.io/reading-notes/code-102/class8.md)
 
 Go to [Read 01](https://Andy-Hutton.github.io/reading-notes/code-201/class1.md)
 Go to [Read 02](https://Andy-Hutton.github.io/reading-notes/code-201/class2.md)
-Go to [Read 03}(https://Andy-Hutton.github.io/reading-notes/code-201/class3.md)
+Go to [Read 03](https://Andy-Hutton.github.io/reading-notes/code-201/class3.md)
 Go to [Read 04](https://Andy-Hutton.github.io/reading-notes/code-201/class4.md)
 Go to [Read 05](https://Andy-Hutton.github.io/reading-notes/code-201/class5.md)
 Go to [Read 06](https://Andy-Hutton.github.io/reading-notes/code-201/class6.md)
