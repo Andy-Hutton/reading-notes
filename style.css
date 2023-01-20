@@ -1,0 +1,29 @@
+.container {
+  display: grid;
+  grid-template-areas:
+    "intro intro intro intro"
+    "navi about about about"
+    "navi main main main"
+    "navi main main main"
+    "footer footer footer footer";
+}
+#intro {
+  background-color: aqua;
+  grid-area: intro;
+}
+#navi {
+  background-color: aquamarine;
+  grid-area: intro;
+}
+#about {
+  background-color: aquamarine;
+  grid-area: about;
+}
+#main {
+  background-color: aqua;
+  grid-area: main;
+}
+#footer {
+  background-color: aqua;
+  grid-area: footer;
+}
