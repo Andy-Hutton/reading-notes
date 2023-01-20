@@ -1,10 +1,11 @@
 # reading-notes
 
 ## Bio
-### Who is **Andy**? 
 
-Hi im Andy, Im 38 years old, married  and have two children Theo 5 and Jett 3 months.
-I like mountain bikes 🚵‍♂️ cars 🏎️ and ***beer***! 
+### Who is **Andy**?
+
+Hi im Andy, Im 38 years old, married and have two children Theo 5 and Jett 3 months.
+I like mountain bikes 🚵‍♂️ cars 🏎️ and **_beer_**!
 I am learning to code to challange myself and find a new career.
 
 ![Family](https://user-images.githubusercontent.com/122787650/212732356-6b870cfd-f157-4da9-98c7-025217447708.jpg)
@@ -14,7 +15,8 @@ I am learning to code to challange myself and find a new career.
 ## Table of content, links to my learning;
 
 ### Code-102
-Go to [Read 01](https://Andy-Hutton.github.io/reading-notes/code-102/class1.md)   
+
+Go to [Read 01](https://Andy-Hutton.github.io/reading-notes/code-102/class1.md)  
 Go to [Read 02](https://Andy-Hutton.github.io/reading-notes/code-102/class2.md)  
 Go to [Read 03](https://Andy-Hutton.github.io/reading-notes/code-102/class3.md)  
 Go to [Read 04](https://Andy-Hutton.github.io/reading-notes/code-102/class4.md)  
