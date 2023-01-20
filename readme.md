@@ -14,15 +14,32 @@ I am learning to code to challange myself and find a new career.
 ## Table of content, links to my learning;
 
 ### Code-102
-Go to [Read 01](https://Andy-Hutton.github.io/reading-notes/code-102/class1)   
+Go to [Read 01](https://Andy-Hutton.github.io/reading-notes/code-102/class1.md)   
 Go to [Read 02](https://Andy-Hutton.github.io/reading-notes/code-102/class2.md)  
-Go to [Read 03](https://Andy-Hutton.github.io/reading-notes/code-102/class3)  
-Go to [Read 04](https://Andy-Hutton.github.io/reading-notes/code-102/class4)  
-Go to [Read 05](https://Andy-Hutton.github.io/reading-notes/code-102/class5)  
-Go to [Read 06](https://Andy-Hutton.github.io/reading-notes/code-102/class6)  
-Go to [Read 07](https://Andy-Hutton.github.io/reading-notes/code-102/class7)  
-Go to [Read 08](https://Andy-Hutton.github.io/reading-notes/code-102/class8)  
+Go to [Read 03](https://Andy-Hutton.github.io/reading-notes/code-102/class3.md)  
+Go to [Read 04](https://Andy-Hutton.github.io/reading-notes/code-102/class4.md)  
+Go to [Read 05](https://Andy-Hutton.github.io/reading-notes/code-102/class5.md)  
+Go to [Read 06](https://Andy-Hutton.github.io/reading-notes/code-102/class6.md)  
+Go to [Read 07](https://Andy-Hutton.github.io/reading-notes/code-102/class7.md)  
+Go to [Read 08](https://Andy-Hutton.github.io/reading-notes/code-102/class8.md)
 
+### Code-201
+
+Go to [Read 01](https://Andy-Hutton.github.io/reading-notes/code-201/class1.md)
+Go to [Read 02](https://Andy-Hutton.github.io/reading-notes/code-201/class2.md)
+Go to [Read 03}(https://Andy-Hutton.github.io/reading-notes/code-201/class3.md)
+Go to [Read 04](https://Andy-Hutton.github.io/reading-notes/code-201/class4.md)
+Go to [Read 05](https://Andy-Hutton.github.io/reading-notes/code-201/class5.md)
+Go to [Read 06](https://Andy-Hutton.github.io/reading-notes/code-201/class6.md)
+Go to [Read 07](https://Andy-Hutton.github.io/reading-notes/code-201/class7.md)
+Go to [Read 08](https://Andy-Hutton.github.io/reading-notes/code-201/class8.md)
+Go to [Read 09](https://Andy-Hutton.github.io/reading-notes/code-201/class9.md)
+Go to [Read 10](https://Andy-Hutton.github.io/reading-notes/code-201/class10.md)
+Go to [Read 11](https://Andy-Hutton.github.io/reading-notes/code-201/class11.md)
+Go to [Read 12](https://Andy-Hutton.github.io/reading-notes/code-201/class12.md)
+Go to [Read 13](https://Andy-Hutton.github.io/reading-notes/code-201/class13.md)
+Go to [Read 14](https://Andy-Hutton.github.io/reading-notes/code-201/class14.md)
+Go to [Read 15](https://Andy-Hutton.github.io/reading-notes/code-201/class15.md)
 
 ## What is this website?
 
