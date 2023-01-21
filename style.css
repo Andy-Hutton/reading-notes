@@ -7,23 +7,23 @@
     "navi main main main"
     "footer footer footer footer";
 }
-#intro {
+.intro {
   background-color: aqua;
   grid-area: intro;
 }
-#navi {
+.navi {
   background-color: aquamarine;
   grid-area: intro;
 }
-#about {
+.about {
   background-color: aquamarine;
   grid-area: about;
 }
-#main {
+.main {
   background-color: aqua;
   grid-area: main;
 }
-#footer {
+.footer {
   background-color: aqua;
   grid-area: footer;
 }
