@@ -1,10 +1,10 @@
-.container {
+.grid-container {
   display: grid;
   grid-template-areas:
     "intro intro intro intro"
     "navi about about about"
-    "navi main main main"
-    "navi main main main"
+    "navi main main growth"
+    "navi main main growth"
     "footer footer footer footer";
 }
 .intro {
