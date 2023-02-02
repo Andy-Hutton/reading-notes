@@ -1,11 +1,6 @@
 .grid-container {
   display: grid;
-  grid-template-areas:
-    "intro intro intro intro"
-    "navi about about about"
-    "navi main main growth"
-    "navi main main growth"
-    "footer footer footer footer";
+  grid-template: 200px 200px/ 200px 200px;
 }
 .intro {
   background-color: aqua;
